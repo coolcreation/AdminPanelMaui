@@ -2,7 +2,7 @@
   "name": "admin-panel",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://coolcreation.github.io/AdminPanelMaui",
+  "homepage": "https://coolcreation.github.io/AdminPanelMaui/",
   "type": "module",
   "scripts": {
     "dev": "vite",
